@@ -4,7 +4,7 @@ This is my first Ruby on Rails CRUD project (Friends Project).
 
 Details:
 
-- Ruby version - 2.7.3
+- Ruby version - 2.7.3p183 (2021-04-05 revision 6847ee089d) [x64-mingw32]
 
 - Rails version - 6.1.4
 
