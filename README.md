@@ -1,24 +1,21 @@
-# README
+# Ruby on Rails CRUD Project
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is my first Ruby on Rails CRUD project (Friends Project).
 
-Things you may want to cover:
+Details:
 
-* Ruby version
+- Ruby version - 2.7.3
 
-* System dependencies
+- Rails version - 6.1.4
 
-* Configuration
+- Yarn version - 1.22.5
 
-* Database creation
+- Node version - 14.17.3
 
-* Database initialization
+Get in touch with me on:
 
-* How to run the test suite
+- Instagram - [@dork_v3.0](https://www.instagram.com/dork_v3.0)
+- Twitter - [@dork_v2](https://www.twitter.com/dork_v2)
 
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Hope this project helps you in one way or the other.
+Thank You!!
