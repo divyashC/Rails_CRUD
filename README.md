@@ -13,6 +13,13 @@ Details:
 
 - Node version - 14.17.3
 
+ <br/>
+This site is live on - https://divyashrailscrud.herokuapp.com/
+
+[Click Here](https://divyashrailscrud.herokuapp.com/) to view the site
+
+<br/>
+
 Get in touch with me on:
 
 - Instagram - [@dork_v3.0](https://www.instagram.com/dork_v3.0)
