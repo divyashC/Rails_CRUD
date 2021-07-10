@@ -1,3 +1,17 @@
-<h1>Friend App</h1>
-<br><br>
-<h2>Home</h2>
+<div class="card">
+    <h1 class="card-header">Friends App</h1>
+    <div class="card-body">
+        <h3 class="card-title">Home</h3>
+        <br>
+        <p class="card-text">This is a simple CRUD app I made while learning Ruby on Rails</p>
+        <p class="card-text">Please Sign In or Sign Up to Continue</p>
+        <br>
+        <p class="card-text">Visit my Instagram - <%= link_to '@dork_v3.0', 'https://www.instagram.com/dork_v3.0', target: :_blank %> </p>
+        <p class="card-text">Visit my Twitter - <%= link_to '@dork_v2', 'https://twitter.com/dork_v2', target: :_blank %> </p>
+        <p class="card-text">Visit my GitHub - <%= link_to 'divyashC', 'https://github.com/divyashC/', target: :_blank %> </p>
+        <hr class="dropdown-divider">
+        <br>
+        <%= link_to 'Sign Up', new_user_registration_path,  class:"btn btn-dark" %>
+        <%= link_to 'Sign in', new_user_session_path,  class:"btn btn-dark" %>
+    </div>
+</div>
