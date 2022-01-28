@@ -20,6 +20,8 @@ This site is live on - https://divyashrailscrud.herokuapp.com/
 
 <br/>
 
+## Get in touch with me on: ##
+
 <p align="center">
  <a href="https://twitter.com/dork_v2" target="_blank">
   <img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" alt="divyashC's Twitter" width="40" height="40"/>     
