@@ -1,7 +1,6 @@
 # Ruby on Rails CRUD Project
 
 This is my first Ruby on Rails CRUD project (Friend Project). <br>
-\*CRUD - Create Read Update Delete
 
 Details:
 
